@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5ssqrro4q1bt"
-path.s3tc="res://.godot/imported/template-front-all-Sheet.png-1342b1e715a26f7bb8761c28b6b61a40.s3tc.ctex"
+path.s3tc="res://.godot/imported/template-front-all-Sheet.png-0e66b0c5bafa7b9b5e7347e929dd5999.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://2DEntities-3DEnv/Art/2D/template-front-all-Sheet.png"
-dest_files=["res://.godot/imported/template-front-all-Sheet.png-1342b1e715a26f7bb8761c28b6b61a40.s3tc.ctex"]
+source_file="res://2DEntities-3DEnv/Art/2D/SidePlayer/template-front-all-Sheet.png"
+dest_files=["res://.godot/imported/template-front-all-Sheet.png-0e66b0c5bafa7b9b5e7347e929dd5999.s3tc.ctex"]
 
 [params]
 

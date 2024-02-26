@@ -2,8 +2,8 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bgk6u663e0lwo"
-path.s3tc="res://.godot/imported/template-rear-all-Sheet.png-418ba0a75b430d1026c02ec476624d26.s3tc.ctex"
+uid="uid://bcacovyr85l3n"
+path.s3tc="res://.godot/imported/moving-char-side-Sheet.png-b3667540c95c3cba104fe751978c4091.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://2DEntities-3DEnv/Art/2D/template-rear-all-Sheet.png"
-dest_files=["res://.godot/imported/template-rear-all-Sheet.png-418ba0a75b430d1026c02ec476624d26.s3tc.ctex"]
+source_file="res://2DEntities-3DEnv/Art/2D/TopPlayer/moving-char-side-Sheet.png"
+dest_files=["res://.godot/imported/moving-char-side-Sheet.png-b3667540c95c3cba104fe751978c4091.s3tc.ctex"]
 
 [params]
 

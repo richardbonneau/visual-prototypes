@@ -1,8 +1,8 @@
 [gd_scene load_steps=14 format=3 uid="uid://cba2wm8786ouo"]
 
-[ext_resource type="Script" path="res://2DEntities-3DEnv/Logic/Player/player.gd" id="1_1qo80"]
-[ext_resource type="Texture2D" uid="uid://bgk6u663e0lwo" path="res://2DEntities-3DEnv/Art/2D/template-rear-all-Sheet.png" id="1_roibi"]
-[ext_resource type="Texture2D" uid="uid://b5ssqrro4q1bt" path="res://2DEntities-3DEnv/Art/2D/template-front-all-Sheet.png" id="2_n1c4w"]
+[ext_resource type="Script" path="res://2DEntities-3DEnv/Logic/PlayerSide/player.gd" id="1_1qo80"]
+[ext_resource type="Texture2D" uid="uid://bgk6u663e0lwo" path="res://2DEntities-3DEnv/Art/2D/SidePlayer/template-rear-all-Sheet.png" id="1_roibi"]
+[ext_resource type="Texture2D" uid="uid://b5ssqrro4q1bt" path="res://2DEntities-3DEnv/Art/2D/SidePlayer/template-front-all-Sheet.png" id="2_n1c4w"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_1kqk1"]
 atlas = ExtResource("1_roibi")
@@ -87,7 +87,7 @@ animations = [{
 radius = 0.158846
 height = 0.600653
 
-[node name="Player" type="CharacterBody3D"]
+[node name="PlayerSide" type="CharacterBody3D"]
 script = ExtResource("1_1qo80")
 
 [node name="AnimatedSprite3D" type="AnimatedSprite3D" parent="."]
